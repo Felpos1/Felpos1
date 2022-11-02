@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @Felpos1
+- 👋 Hi, I’m @FrancoGaitan
 - 👀 Interested in learn all about programming development...
 - 🌱 Currently learning Swift...
 - 💞️ Looking to collaborate on software development...
-- 📫 How to reach me ...
+- 📫 How to reach me {
+- linkedin.com/in/franco-nicolas-gaitán-374699159
+- gaitanfranco01@gmail.com
+}
 
 <!---
 Felpos1/Felpos1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
