@@ -3,7 +3,7 @@
 - 🌱 Currently learning Swift...
 - 💞️ Looking to collaborate on software development...
 - 📫 How to reach me {
-- linkedin.com/in/franco-nicolas-gaitán-374699159
+- https://linkedin.com/in/franco-nicolas-gaitán-374699159
 - gaitanfranco01@gmail.com
 }
 
